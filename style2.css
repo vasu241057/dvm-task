@@ -1,0 +1,11 @@
+@media screen and (max-width: 1920px) {
+  .first-div {
+    width: 14vw;
+  }
+
+}
+
+@media screen and (max-width: 1440px) {
+  .first-div {
+    width: 20vw;
+  }
